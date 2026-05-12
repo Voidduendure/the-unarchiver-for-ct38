@@ -1,4 +1,4 @@
-
+Enhance The Unarchiver for macOS with premium Helper for The Unarchiver for macOS - performance-boost and snapshot-rollback, the #1 helper. Includes performance-boost and
 
 
 
